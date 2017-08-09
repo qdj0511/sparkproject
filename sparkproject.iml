@@ -18,7 +18,6 @@
     <orderEntry type="library" scope="TEST" name="Maven: org.jmock:jmock:2.4.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-library:1.1" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.hadoop:hadoop-common:2.6.0-cdh5.8.0" level="project" />
-    <orderEntry type="library" name="Maven: org.apache.spark:spark-core_2.10:unknown" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.spark:spark-core_2.10:1.6.0-cdh5.8.0" level="project" />
   </component>
 </module>
